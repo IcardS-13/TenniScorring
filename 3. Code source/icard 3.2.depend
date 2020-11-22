@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558042536 source:g:\icard isn\4. executable\icard 3.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Scoring.c"
+
+1557964844 g:\icard isn\4. executable\icard 3.2\scoring.c
+	<stdio.h>
+	<stdlib.h>
+

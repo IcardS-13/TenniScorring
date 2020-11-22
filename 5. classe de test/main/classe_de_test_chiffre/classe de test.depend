@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557964906 source:g:\icard isn\5. classe de test\classe de test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Scoring.c"
+
+1557964844 g:\icard isn\5. classe de test\classe de test\scoring.c
+	<stdio.h>
+	<stdlib.h>
+
